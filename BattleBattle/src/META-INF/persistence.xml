@@ -15,6 +15,7 @@ xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/x
 			<property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/battledb"></property>
 			<property name="javax.persistence.jdbc.user" value="postgres"></property>
 			<property name="javax.persistence.jdbc.password" value="123"></property>
+			<property name="javax.persistence.jdbc.password" value="123"></property>
 		</properties>
 	</persistence-unit>
 </persistence>
